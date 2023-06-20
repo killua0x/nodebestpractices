@@ -1,6 +1,6 @@
 [✔]: assets/images/checkbox-small-blue.png
 
-# Node.js Best Practices
+# Awesome Node.js Best Practices
 
 <h1 align="center">
   <img src="assets/images/banner-2.jpg" alt="Node.js Best Practices"/>
